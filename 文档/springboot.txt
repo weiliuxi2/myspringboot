@@ -1,0 +1,1 @@
+1. spring ioc创建的时候，会实例化RequestMappingHandlerMapping 对象。改对象保存了url 和 方法的映射关系map。
